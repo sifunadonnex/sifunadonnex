@@ -4,7 +4,7 @@
 
 *Software Engineer · Content Creator · Poet · Designer*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Building+things+for+the+web+🌐;Java+%7C+TypeScript+%7C+Python+%7C+React;Open+to+collaborations+%26+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Building+things+for+the+web+🌐;Go+%7C+TypeScript+%7C+Python+%7C+React;Open+to+collaborations+%26+opportunities)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sifuna-donnex-a8a9751b2)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@sifunadonnex)
